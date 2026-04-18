@@ -1,5 +1,4 @@
-# The way I build advanced cyber autonomy has changed forever
-## ➡️ and here’s why. 
+# The way I build advanced cyber autonomy has changed forever ➡️ and here’s why. 
 
 
 After a super-condensed experimental sprint (just 7 days from idea and design to a working prototype architecture), I came away with a completely different perspective on how serious cyber agents could be built. The goal was to create long-horizon cybersecurity autonomy from scratch, meaning as close to the metal as possible, without relying on wrappers or tools like Claude Code as the agentic engine (we used GPT 5.4). Watching the finished prototype do things like decomposing the task into multiple hypothesis branches, spin up parallel live execution environments for iterative evidence gathering / experimentation, and ultimately feed those results back into a meta orchestrator that learns to replan based on the refutation or validation of its own assumptions was life-changing as an AI engineer. There is no going back.
